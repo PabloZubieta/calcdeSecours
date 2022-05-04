@@ -25,7 +25,7 @@
 
         public int Div(int a, int b)
         {
-            throw new NotImplementedException();
+            return a / b;
         }
 
         public override string ToString()
