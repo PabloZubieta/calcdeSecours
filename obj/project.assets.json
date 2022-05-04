@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pablo-Fernando.ZUBIE\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\GitTrainingCalc.csproj",
+      "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\GitTrainingCalc.csproj",
       "projectName": "GitTrainingCalc",
-      "projectPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\GitTrainingCalc.csproj",
-      "packagesPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\obj\\",
+      "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\GitTrainingCalc.csproj",
+      "packagesPath": "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Pablo-Fernando.ZUBIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Christophe.KUNZLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -3870,24 +3870,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pablo-Fernando.ZUBIE\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\TestModelCalc\\TestModelCalc.csproj",
+      "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj",
       "projectName": "TestModelCalc",
-      "projectPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\TestModelCalc\\TestModelCalc.csproj",
-      "packagesPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\TestModelCalc\\obj\\",
+      "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj",
+      "packagesPath": "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Pablo-Fernando.ZUBIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Christophe.KUNZLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3901,8 +3896,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\ModelCalc\\ModelCalc.csproj": {
-              "projectPath": "C:\\Users\\Pablo-Fernando.ZUBIE\\Documents\\Proggroup\\ModelCalc\\ModelCalc.csproj"
+            "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj": {
+              "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj"
             }
           }
         }
