@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj": {}
+    "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\TestModelCalc\\TestModelCalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj": {
+    "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj",
+        "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj",
         "projectName": "ModelCalc",
-        "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj",
+        "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj",
         "packagesPath": "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\obj\\",
+        "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christophe.KUNZLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj": {
+    "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\TestModelCalc\\TestModelCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj",
+        "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\TestModelCalc\\TestModelCalc.csproj",
         "projectName": "TestModelCalc",
-        "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj",
+        "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\TestModelCalc\\TestModelCalc.csproj",
         "packagesPath": "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\obj\\",
+        "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\TestModelCalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christophe.KUNZLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj": {
-                "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj"
+              "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj": {
+                "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj"
               }
             }
           }

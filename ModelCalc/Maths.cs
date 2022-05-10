@@ -14,8 +14,7 @@
 
         public int Sub(int a, int b)
         {
-            
-            throw new NotImplementedException();
+            return a - b;
         }
 
         public int Mul(int a, int b)

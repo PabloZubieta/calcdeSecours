@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n05awhpTDjbhBY6HzgSwoqT7Q4leD+S4/vnRiIQpQVCqLCI1roLn1XI+fptkzPygvSy3m9JzvoZ342vysbvxuQ==",
+  "dgSpecHash": "14pnS0TCL1CEZPBjewElsiTecWUurb/JQ2rH4LZQLOWKPd58AI6THKsC7+Y30k8gUizDjYhU+ZVuvp6lxZaLeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\TestModelCalc\\TestModelCalc.csproj",
+  "projectFilePath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\TestModelCalc\\TestModelCalc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ksZz9gqtqf06iP5HPqczGmjduiKCN7VGfQsogxEP6jk5aMNWRoQhs54hYaEKOZZu3Pncfp4DzbdFsFF3x8Guww==",
+  "dgSpecHash": "4D5Z/koE6pkzi9GnIgnDLIoINM10oIrp1nhOfccOI3GblqGLNL0Undeggd48tvrGC6aKdRcKj6/bFIrt5AK8Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj",
+  "projectFilePath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

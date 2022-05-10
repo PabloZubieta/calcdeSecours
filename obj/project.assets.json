@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\GitTrainingCalc.csproj",
+      "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\GitTrainingCalc.csproj",
       "projectName": "GitTrainingCalc",
-      "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\GitTrainingCalc.csproj",
+      "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\GitTrainingCalc.csproj",
       "packagesPath": "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\obj\\",
+      "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christophe.KUNZLI\\AppData\\Roaming\\NuGet\\NuGet.Config",

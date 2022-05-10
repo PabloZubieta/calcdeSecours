@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj",
+      "projectUniqueName": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj",
       "projectName": "ModelCalc",
-      "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\ModelCalc.csproj",
+      "projectPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\ModelCalc.csproj",
       "packagesPath": "C:\\Users\\Christophe.KUNZLI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\ModelCalc\\obj\\",
+      "outputPath": "C:\\Users\\Christophe.KUNZLI\\ProjGrp\\calc\\ModelCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Christophe.KUNZLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
